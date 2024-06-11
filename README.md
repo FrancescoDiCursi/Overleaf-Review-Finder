@@ -1,5 +1,5 @@
 # Overleaf-Review-Finder
-A Chrome extension to filter reviews on Overleaf.
+A Chrome extension to filter reviews on Overleaf. [Get it on the Chrome store](https://chromewebstore.google.com/detail/overleaf-review-finder/pjhonpbogfghndidpolaphmomfgjdbno?authuser=0&hl=it).
 
 # Guide
 - When you click on "Review" (at the right of the top toolbar) a new button appears at its left. By clicking on it, a popup appears.
