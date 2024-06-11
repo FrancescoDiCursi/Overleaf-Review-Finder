@@ -1,4 +1,4 @@
-# Overleaf-Review-Finder
+# <img src="https://github.com/FrancescoDiCursi/Overleaf-Review-Finder/blob/main/logo.png" width="45"> Overleaf-Review-Finder
 A Chrome extension to filter reviews on Overleaf. [Get it on the Chrome store](https://chromewebstore.google.com/detail/overleaf-review-finder/pjhonpbogfghndidpolaphmomfgjdbno?authuser=0&hl=it).
 
 # Guide
