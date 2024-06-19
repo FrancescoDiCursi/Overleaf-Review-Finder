@@ -8,7 +8,7 @@ A Chrome extension to filter reviews on Overleaf. [Get it on the Chrome store](h
 - Click anywhere outside the dropdown to make it collapse.
 - Selected values appear under the dropdown button. An empty value ("-") means no filtering on that attribute.
 - "Substring" allow to filter through text. Click on "Regex" to enable regular expressions (blue = active).
-- "Bind filters to overview" searches only in the Overview section of the reviews. It is suggested as reviews are displayed close to each other.
+- "Bind filters to overview" searches only in the Overview section of the reviews. Only needed if not in Oreview section (a bit of delay due to click and rendering), disable it otherwise.
 - "Search" applies the filters, "Cancel" undoes the filtering, "Reset" resets filters and udoes the filtering.
 
 # Note
